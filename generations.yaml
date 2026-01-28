@@ -1,0 +1,32 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class"
+
+generations:
+  - name: "First Generation (W202)"
+    start_year: 1993
+    end_year: 2000
+    platform: "W202"
+    description: "First generation C-Class sedan, replacement for the 190 (W201) range. The C180 was available as an entry-level model with inline-four engines."
+
+  - name: "Second Generation (W203)"
+    start_year: 2000
+    end_year: 2007
+    platform: "W203"
+    description: "Second generation C-Class introduced in March 2000. The C180 continued as an entry-level model with improved inline-four engines."
+
+  - name: "Third Generation (W204)"
+    start_year: 2007
+    end_year: 2014
+    platform: "W204"
+    description: "Third generation C-Class introduced in January 2007. The W204 received a facelift in 2011 for the 2012 model year. The C180 was available throughout this generation with various inline-four engine options."
+
+  - name: "Fourth Generation (W205)"
+    start_year: 2014
+    end_year: 2021
+    platform: "W205"
+    description: "Fourth generation C-Class launched in 2014. The W205 received a mid-life update in 2018. The C180 was available with turbocharged inline-four engines."
+
+  - name: "Fifth Generation (W206)"
+    start_year: 2021
+    platform: "W206"
+    description: "Fifth generation C-Class unveiled in February 2021. The W206 features a new platform with extensive aluminum use. All models are equipped with four-cylinder engines coupled with an integrated starter generator (15 kW electric motor) and a 48-volt electrical system. The C180 continues as an entry-level model."
