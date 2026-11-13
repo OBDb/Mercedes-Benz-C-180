@@ -1,0 +1,5 @@
+command_id: 7E5.226504
+test_cases:
+- expected_values:
+    MERCEDES_SERVICE_DIST: 0
+  response: 7E807626504000044AC
